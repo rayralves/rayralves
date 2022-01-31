@@ -25,7 +25,11 @@ Atualmente me dedicando em me tornar uma Desenvolvedora back-end.
  
   
  ## Meus dados no Github
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayralves&show_icons=true&theme=react&hide_border=&title_color=F0DB4F&icon_color=F0DB4F) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayralves&layout=compact&theme=react&hide_border=&title_color=F0DB4F&icon_color=F0DB4F)
+
+
+
 
 
 <p align="center">   
