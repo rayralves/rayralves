@@ -25,8 +25,8 @@ Atualmente me dedicando em me tornar uma Desenvolvedora back-end.
  
   
  ## Meus dados no Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayralves&show_icons=true&theme=react&hide_border=&title_color=F0DB4F&icon_color=F0DB4F)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayralves&layout=compact&theme=react&hide_border=&title_color=F0DB4F&icon_color=F0DB4F)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayralves&show_icons=true&theme=react&hide_border=&title_color=F0DB4F&icon_color=F0DB4F) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayralves&layout=compact&theme=react&hide_border=&title_color=F0DB4F&icon_color=F0DB4F)
+
 
 <p align="center">   
   <a href="mailto:rayraluna11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
