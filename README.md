@@ -29,7 +29,7 @@ Atualmente me dedicando em me tornar uma Desenvolvedora back-end.
 <a href="https://github.com/rayralves">
 
 <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=rayralves&show_icons=true&theme=react&hide_border=&title_color=F0DB4F&icon_color=F0DB4F"/>
-<img height="100em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayralves&layout=compact&theme=react&hide_border=&title_color=F0DB4F&icon_color=F0DB4F"/>
+<img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayralves&layout=compact&theme=react&hide_border=&title_color=F0DB4F&icon_color=F0DB4F"/>
   </div>
 
 
